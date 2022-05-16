@@ -1,6 +1,8 @@
-# Dogan Ulus
+# Doğan Ulus
 
-I am an assistant professor of Computer Science at the [Department of Computer Engineering](https://github.com/bouncmpe) at Boğaziçi University. The primary focus of my research is to develop testing, verification, and validation tools and techniques that support the development of complex cyber-physical systems including highly automated driving systems and autonomous robots. All based on formal methods and good software development practices...
+I am an assistant professor of Computer Science at the [Department of Computer Engineering](https://github.com/bouncmpe) at Boğaziçi University. The primary focus of my research is to develop testing, verification, and validation tools and techniques that support the development of complex cyber-physical systems including highly automated driving systems and autonomous robots. 
+
+All based on formal methods and good software development practices...
 
 ## Short Bio
 
